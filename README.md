@@ -22,5 +22,5 @@ Designed a basic ALU in Verilog supporting:
 EDA Playground - Riviera PRO
 
 ## Intern
-Name: [Your Name]
-Intern ID: [Your ID]
+Name: [Harshavardhan]
+Intern ID: [CTIS8866]
